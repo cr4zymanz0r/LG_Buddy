@@ -36,7 +36,8 @@ For Arch based distros for example, you can run these commands to install:
 5. Enter root password. Install should now be complete.
 
 Restart your computer
-Take note of the first time use instructions https://github.com/chros73/bscpylgtv/blob/master/docs/guides/first_use.md
+
+Take note of the first time use instructions: https://github.com/chros73/bscpylgtv/blob/master/docs/guides/first_use.md
 
 Author:
 Rob Grieves aka https://github.com/Faceless3882 aka r/TheFacIessMan
